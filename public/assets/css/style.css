@@ -1,0 +1,37 @@
+.form-inline {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.row {
+    width: 100%;
+}
+
+.dataTables_wrapper .dataTables_length label {
+    font-weight: normal;
+    text-align: left;
+    white-space: nowrap;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+
+.table th {
+    border-bottom: none !important;
+    border-top: none;
+}
+
+ul.pagination {
+    float: right;
+    display: flex;
+    gap: 10px;
+}
+
+.center-content {
+    text-align: center;
+}
