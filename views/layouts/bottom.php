@@ -5,6 +5,7 @@
 <script type="text/javascript" src="/public/assets/js/daterangepicker.min.js"></script>
 <script src="https://cdn.datatables.net/1.10.18/js/jquery.dataTables.min.js" type="text/javascript"></script>
 <script src="https://cdn.datatables.net/1.10.18/js/dataTables.bootstrap.min.js" type="text/javascript"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.js'></script>
 
 <script>
     $(document).ready(function() {

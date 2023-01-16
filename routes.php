@@ -7,3 +7,4 @@ $router->post('works/store', 'WorkController@store');
 $router->get('works/edit', 'WorkController@edit');
 $router->post('works/edit', 'WorkController@update');
 $router->get('works/delete', 'WorkController@delete');
+$router->get('works/calendar', 'WorkController@calendar');

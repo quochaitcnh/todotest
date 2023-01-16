@@ -7,7 +7,8 @@
     <title><?php echo $title ?> - ToDoList PHP MVC</title>
     <link rel="stylesheet" type="text/css" href="/public/assets/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="/public/assets/css/daterangepicker.css" />
-    <link href="https://cdn.datatables.net/1.10.18/css/dataTables.bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="https://cdn.datatables.net/1.10.18/css/dataTables.bootstrap.min.css" rel="stylesheet" type="text/css">    
+    <link rel="stylesheet" type="text/css" href="/public/assets/css/fullcalendar.min.css" />
     <link rel="stylesheet" type="text/css" href="/public/assets/css/style.css" />
 
     <style type="text/css">
